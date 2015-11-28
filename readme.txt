@@ -1,2 +1,2 @@
 t is a distributed version control system.
-Git is free software.
+Git is distributed2 free software.
